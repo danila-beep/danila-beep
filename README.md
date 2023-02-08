@@ -19,3 +19,22 @@
     <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="30px"/>
   </h1>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600px" height="300px"/>
+</div>
+
+---
+### :man_technologist: About Me :
+I am a beginner Developer from Russia
+- 🔭: Trying to figure out front-end development.
+- 👨‍🎓: University education: Lawyer 👨‍⚖️.
+
+---
+### 🛠️: Languages and tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
