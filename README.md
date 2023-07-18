@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=danila-beep"/>
   <h1>
     <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="30px"/>
-    What's Up
+    My Portfolio: danila-beep.github.io/portfolio/
     <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="30px"/>
   </h1>
 </div>
