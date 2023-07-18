@@ -16,7 +16,7 @@
   <h1>
     <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="30px"/>
     My Portfolio: 
-    <a href="danila-beep.github.io/portfolio/">
+    <a href="https://danila-beep.github.io/portfolio/">
       danila-beep.github.io/portfolio/
     </a>
     <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="30px"/>
