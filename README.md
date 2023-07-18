@@ -15,7 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=danila-beep"/>
   <h1>
     <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="30px"/>
-    My Portfolio: danila-beep.github.io/portfolio/
+    My Portfolio: 
+    <a href="danila-beep.github.io/portfolio/">
+      danila-beep.github.io/portfolio/
+    </a>
     <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="30px"/>
   </h1>
 </div>
