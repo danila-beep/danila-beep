@@ -27,12 +27,6 @@
 </div>
 
 ---
-### :man_technologist: About Me :
-I am a beginner Developer from Russia
-- 🔭: Trying to figure out front-end development.
-- 👨‍🎓: University education: Lawyer 👨‍⚖️.
-
----
 ### 🛠️: Languages and tools :
 
 <div>
